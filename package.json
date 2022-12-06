@@ -18,7 +18,7 @@
     "@quasar/extras": "^1.0.0",
     "axios": "^0.19.0",
     "connect-history-api-fallback": "^1.6.0",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "quasar": "^1.0.0",
     "serve-static": "^1.14.1",
     "torrent-search-api": "^2.0.10"
